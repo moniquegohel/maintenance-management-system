@@ -12,10 +12,6 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 ## Deployment
 
-Your project is live at:
-
-**[https://vercel.com/komraxmon-1903s-projects/v0-maintenance-management-system](https://vercel.com/komraxmon-1903s-projects/v0-maintenance-management-system)**
-
 ## Build your app
 
 Continue building your app on:
