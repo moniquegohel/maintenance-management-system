@@ -36,10 +36,10 @@ Click **"Add user"** or **"Invite"** button and create test accounts with the fo
 
 Make sure these environment variables are set in your Vercel project:
 
-```
+\`\`\`
 NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-```
+\`\`\`
 
 These are automatically added when you connect Supabase through the v0 Connections panel.
 
